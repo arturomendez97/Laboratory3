@@ -8,6 +8,11 @@ body {
   padding: 0;
 }
 
+p{
+  margin-left: 5px;
+  margin-block-end: 5px;
+}
+
 .product{
   border : 1px solid lightgray;
   margin: 5px 30px;
